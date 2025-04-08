@@ -30,3 +30,20 @@ VaultView empowers creators to share premium content exclusively with holders of
 
 ## 📦 Project Structure
 
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Solana CLI](https://docs.solana.com/cli/install-solana-cli)
+- [Anchor](https://www.anchor-lang.com/docs/installation)
+- Node.js v18+
+- [Phantom Wallet](https://phantom.app/)
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/vaultview.git
+cd vaultview
