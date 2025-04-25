@@ -53,7 +53,7 @@ const TokenHoldings: React.FC = () => {
               key={index}
               className="p-4 bg-dark-800/50 rounded-lg flex items-center"
               whileHover={{ scale: 1.02 }}
-              transition={{ duration: 0.2 }}
+              // transition={{ duration: 0.2 }}
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.3, delay: index * 0.1 }}

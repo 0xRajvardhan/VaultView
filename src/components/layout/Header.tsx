@@ -42,7 +42,7 @@ const Header: React.FC = () => {
                 <Moon className="h-5 w-5 text-black transition-colors duration-300" />
               )}
             </button>
-            <WalletMultiButton className="!bg-black dark:!bg-white !text-white dark:!text-black hover:!bg-black/90 dark:hover:!bg-white/90 !rounded-lg !py-2 !px-4 !transition-colors !duration-300" />
+            <WalletMultiButton className="hidden md:block!bg-black dark:!bg-white !text-white dark:!text-black hover:!bg-black/90 dark:hover:!bg-white/90 !rounded-lg !py-2 !px-4 !transition-colors !duration-300" />
           </motion.div>
         </div>
       </div>
